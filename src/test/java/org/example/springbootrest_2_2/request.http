@@ -1,0 +1,7 @@
+GET http://localhost:8080/authorize?user=admin&password=0000
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/authorize?user=a&password=0
+Content-Type: application/json
